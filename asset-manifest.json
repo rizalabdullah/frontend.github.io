@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frontend.github.io/static/css/main.e8a368d1.chunk.css",
+    "main.js": "/frontend.github.io/static/js/main.67d09599.chunk.js",
+    "main.js.map": "/frontend.github.io/static/js/main.67d09599.chunk.js.map",
+    "runtime-main.js": "/frontend.github.io/static/js/runtime-main.531f9da7.js",
+    "runtime-main.js.map": "/frontend.github.io/static/js/runtime-main.531f9da7.js.map",
+    "static/js/2.99f4d3de.chunk.js": "/frontend.github.io/static/js/2.99f4d3de.chunk.js",
+    "static/js/2.99f4d3de.chunk.js.map": "/frontend.github.io/static/js/2.99f4d3de.chunk.js.map",
+    "static/js/3.ceeec830.chunk.js": "/frontend.github.io/static/js/3.ceeec830.chunk.js",
+    "static/js/3.ceeec830.chunk.js.map": "/frontend.github.io/static/js/3.ceeec830.chunk.js.map",
+    "index.html": "/frontend.github.io/index.html",
+    "static/css/main.e8a368d1.chunk.css.map": "/frontend.github.io/static/css/main.e8a368d1.chunk.css.map",
+    "static/js/2.99f4d3de.chunk.js.LICENSE.txt": "/frontend.github.io/static/js/2.99f4d3de.chunk.js.LICENSE.txt",
+    "static/media/buku1.ec9b4161.jpg": "/frontend.github.io/static/media/buku1.ec9b4161.jpg",
+    "static/media/buku3.f9804ff1.jpg": "/frontend.github.io/static/media/buku3.f9804ff1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531f9da7.js",
+    "static/js/2.99f4d3de.chunk.js",
+    "static/css/main.e8a368d1.chunk.css",
+    "static/js/main.67d09599.chunk.js"
+  ]
+}
